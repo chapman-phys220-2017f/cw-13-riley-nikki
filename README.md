@@ -1,6 +1,6 @@
 # PHYS220 CW 13 
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Riley and Nikki**
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-13-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-13-YOURNAME)
 
@@ -55,7 +55,7 @@ As written, this will use ```numpy``` in a vectorized way as we have been using 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**I wish that I knew about @np.jit earlier, since I think this would have saved me a lot of time waiting for my codes to run in other assignments.  Numba will be a good tool to use to speed up future codes.**
 
 ## Honor Pledge
 
@@ -66,4 +66,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Riley and Nikki**
